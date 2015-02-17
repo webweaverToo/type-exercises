@@ -1,0 +1,88 @@
+article {
+	width: 35em;
+	margin: 0 auto;
+}
+
+h1 {
+	line-height: 1;
+	padding: 0.5em 0 0.5em 0;
+
+	font-weight: bold;
+
+	font-size: 48px;
+
+	font-family: "league-gothic", "Arial Narrow", Arial, sans-serif;
+	text-transform: uppercase;
+}
+
+h2 {
+	line-height: 1.2;
+	padding: 2em 0 1em 0;
+
+	font-weight: bold;
+
+	font-size: 24px;
+
+	font-family: "league-gothic", "Arial Narrow", Arial, sans-serif;
+}
+
+h3 {
+	line-height: 1.2;
+	padding: 1.5em 0 0.5em 0;
+
+	font-weight: bold;
+
+	font-size: 24px;
+
+	font-family: "league-gothic", "Arial Narrow", Arial, sans-serif;
+}
+
+p {
+	line-height: 1.5;
+	padding: 0 0 1em 0;
+}
+
+p.byline {
+	padding: 1em 0 1em 0;
+	padding: 0 0 0.5em 0;
+	
+	float: left;
+	width: 50%;
+}
+
+article {
+	text-align: center;
+}
+
+header {
+	text-align: left;
+	margin: 0 auto;
+}
+
+time {
+	text-align: left;
+	font-size: 12px;
+	float: right;
+	width: 50%;
+	display: block;
+	text-align: right;
+	padding: 0.3em 0 0 0;
+}
+
+figure {
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+
+figcaption {
+	font-size: 13px;
+	margin: 0 auto 2em auto;
+	text-align: left;
+	line-height: 1.2;
+	color: #666;
+	font-style: italic;
+	background-color: #eee;
+	padding: 0.75em 1em;
+}
